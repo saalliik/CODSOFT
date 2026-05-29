@@ -99,6 +99,6 @@ This project helped strengthen practical understanding of classification algorit
 
 ## 👨‍💻 Author
 
-**Salik Khan**
+**Salik Ahamad Shabbir Khan**
 
 Data Science Intern — CodSoft
