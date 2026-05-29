@@ -99,19 +99,6 @@ The notebook includes:
 
 ---
 
-## 📁 Project Structure
-
-```text
-Task2_Movie_Rating_Prediction/
-│
-├── Movie_Rating_Prediction.ipynb
-├── README.md
-├── movie_rating_model.pkl
-└── outputs/
-```
-
----
-
 ## 🎯 Conclusion
 
 A complete machine learning pipeline was developed to predict movie ratings using IMDb movie data.
