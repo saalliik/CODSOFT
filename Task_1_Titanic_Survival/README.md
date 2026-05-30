@@ -59,14 +59,6 @@ The dataset contains information about Titanic passengers, including:
 * Confusion Matrix Heatmap
 * ROC Curve
 
-## 📂 Project Structure
-
-Task_1_Titanic_Survival/
-│
-├── Titanic_Survival_Prediction.ipynb
-├── README.md
-└── titanic_survival_model.pkl
-
 ## 🚀 Results
 
 The model successfully predicts passenger survival using advanced feature engineering and machine learning techniques, achieving strong classification performance.
