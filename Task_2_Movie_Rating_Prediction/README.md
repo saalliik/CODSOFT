@@ -94,7 +94,7 @@ The model successfully predicts movie ratings by learning patterns from historic
 
 ## 👨‍💻 Author
 
-**Salik Ahamad Khan**
+**Salik Ahamad Shabbir Khan**
 
 Data Science Intern @ CodSoft
 
