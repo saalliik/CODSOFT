@@ -67,7 +67,7 @@ The model successfully predicts passenger survival using advanced feature engine
 
 **Salik Ahamad Shabbir Khan**
 
-### Internship
+Data Science Intern @CodSoft
 
-CodSoft Data Science Internship
+
 
