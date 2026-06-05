@@ -93,7 +93,7 @@ Classify Iris flowers into different species using sepal and petal measurements.
 
 📍 YCCE Nagpur
 
-🔗 LinkedIn: Add your LinkedIn profile link here
+🔗 LinkedIn: linkedin.com/in/saalliik
 
 🔗 GitHub: https://github.com/saalliik
 
