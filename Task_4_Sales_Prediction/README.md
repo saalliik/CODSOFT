@@ -172,5 +172,3 @@ The model generates an estimated sales prediction based on these values.
 Data Science Intern @ CodSoft
 
 
-
-Machine Learning model developed and evaluated for accurate sales prediction and business forecasting.
