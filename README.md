@@ -20,19 +20,31 @@ Classification model for identifying Iris flower species based on sepal and peta
 
 Machine learning model for forecasting product sales based on advertising expenditures across TV, Radio, and Newspaper channels.
 
+### 💳 Task 5: Credit Card Fraud Detection
+Advanced fraud detection system using machine learning, class imbalance handling techniques (SMOTE, SMOTETomek), and multiple classification algorithms to identify fraudulent credit card transactions.
+
 ---
 
 ## Technologies Used
 
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Scikit-Learn
-* Joblib
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-Learn
+- Imbalanced-Learn (SMOTE, SMOTETomek)
+- Joblib
+- KaggleHub
+- Jupyter Notebook
+- Machine Learning
+- Classification Algorithms
+- Regression Algorithms
+- Data Visualization
+- Data Preprocessing
+- Feature Engineering
+- Model Evaluation
 
----
 
 ## Skills Demonstrated
 
